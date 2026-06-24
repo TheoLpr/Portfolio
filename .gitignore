@@ -1,0 +1,20 @@
+# Streamlit
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
+
+# Fichiers temporaires
+graph.png
+temp.png
+debug.py
+
+# Environnements virtuels
+venv/
+.env/
+env/
